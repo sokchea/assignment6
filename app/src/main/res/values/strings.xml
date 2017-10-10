@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Mash</string>
+    <string name="title_activity_gym">GymActivity</string>
+    <string name="title_activity_sleep">SleepActivity</string>
+    <string name="title_activity_bus">BusActivity</string>
+    <string name="title_activity_study">StudyActivity</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+</resources>

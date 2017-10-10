@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sokcheapeng/.android/build-cache/f0d29a77214d332c8651924d04d3af49548333c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/sokcheapeng/Downloads/MusicMash/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb1fe1077b8f3ceb57a49e87f0e851c5b6e77a29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sokcheapeng/.android/build-cache/9978f19b06a49c722d53d2abccac5ee29e1c4f61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/sokcheapeng/Downloads/MusicMash/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8b3f02dbce922f8a665bfe07865fb3730a655cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sokcheapeng/.android/build-cache/1449145d4ddf0c215fa284f6523459f11b9b36cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/sokcheapeng/Downloads/MusicMash/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed87c7d72f672a4f75a60893c9b3a9d48da46637/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sokcheapeng/Downloads/MusicMash/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4f53cc97305161c3703501e5a39ef0c566bf9075">
+        <dex dex="/Users/sokcheapeng/Downloads/MusicMash/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6392479e21e21374172b41496162ce3b86c8db3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sokcheapeng/Downloads/MusicMash/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/sokcheapeng/Downloads/MusicMash/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_12b7d98dd5ad061b97d77ecee3ac7b8af5d25edb/classes.dex" />
+    </item>
+
+</items>
